@@ -33,7 +33,6 @@ function App() {
     <>
       <h1>React Series</h1>
       <h2>Counter value: {counter}</h2>
-
       <button onClick = {addValue}>Add Value {counter}</button>
       <br />
       <button onClick= {removeValue}>Remove value {counter}</button>
