@@ -1,1 +1,18 @@
 @import "tailwindcss";
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+body {
+  background-image: url("C:\Users\dhruv\Contacts\Desktop\programming\web dev\react\05passwordgenerator\pass2.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: rgba(100, 100, 100, 0.2);
+  background-blend-mode: overlay;
+}
